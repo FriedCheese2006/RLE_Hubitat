@@ -3,15 +3,12 @@
   "gitHubUrl": "https://github.com/FriedCheese2006",
   "packages": [
     {
-      "name": "Sensor Groups+",
+	"id": "74131c40-0b1c-480b-86d2-797f77d63036",
+	"name": "Sensor Groups+",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus/main/SensorGroupsPlus.json",
       "description": "An app for grouping sensors.",
-	"tags": [
-			"Automations & Groups",
-			"Multi Sensors",
-			"Tools & Utilities"
-			]
+	"tags": ["Automations & Groups","Multi Sensors","Tools & Utilities"]
     }
   ]
 }
