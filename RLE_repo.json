@@ -9,8 +9,8 @@
       "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus/main/SensorGroupsPlus.json",
       "description": "An app for grouping sensors."
 	  "tags": [
-			"Automations & Groups"
-			"Multi Sensors"
+			"Automations & Groups",
+			"Multi Sensors",
 			"Tools & Utilities"
 			]
     }
