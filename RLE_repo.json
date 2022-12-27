@@ -23,7 +23,8 @@
       "tags": [
         "Automations & Groups",
         "Multi Sensors",
-        "Tools & Utilities"
+        "Tools & Utilities",
+        "Utility"
       ]
     },
     {
@@ -33,7 +34,10 @@
       "location": "https://raw.githubusercontent.com/FriedCheese2006/EnergyCalculatorPlus/main/EnergyCalculatorPlus.json",
       "description": "An app for calculating energy costs",
       "tags": [
-        "Tools & Utilities"
+        "Tools & Utilities",
+        "Energy Monitoring",
+        "Monitoring",
+        "Utility"
       ]
     }
   ]
