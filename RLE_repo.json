@@ -20,9 +20,19 @@
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/FriedCheese2006/WindowTrackerPlus/main/WindowTracker.json",
       "description": "An app for checking contact sensors for house fans",
-	  "tags": [
+      "tags": [
         "Automations & Groups",
         "Multi Sensors",
+        "Tools & Utilities"
+      ]
+    },
+    {
+      "id": "2a37cfa8-606b-4858-942c-aa72938dfa84",
+      "name": "Energy Calculator Plus",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/FriedCheese2006/EnergyCalculatorPlus/main/EnergyCalculatorPlus.json",
+      "description": "An app for calculating energy costs",
+      "tags": [
         "Tools & Utilities"
       ]
     }
