@@ -39,6 +39,19 @@
         "Monitoring",
         "Utility"
       ]
+    },
+    {
+      "id": "6f7e9d2f-bfc2-42ff-b733-6b609214584f",
+      "name": "IoTaWatt+",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/FriedCheese2006/IoTaWattPlus/main/IoTaWatt%2B.json",
+      "description": "An driver for integrating IoTaWatt into Hubitat.",
+	  "tags": [
+        "Tools & Utilities",
+        "Energy Monitoring",
+        "Monitoring",
+        "Utility"
+      ],
     }
   ]
 }
