@@ -46,12 +46,23 @@
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/FriedCheese2006/IoTaWattPlus/main/IoTaWatt%2B.json",
       "description": "An driver for integrating IoTaWatt into Hubitat.",
-	  "tags": [
+      "tags": [
         "Tools & Utilities",
         "Energy Monitoring",
         "Monitoring",
         "Utility"
       ]
+    },
+    {
+      "id": "90f358a4-0d61-48fc-9f74-89e46659c161",
+      "name": "Bambu Labs Printers",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/FriedCheese2006/BambuLabs/main/BambuLabsIntegration.json",
+      "description": "A driver for integrating Bambu Labs 3D printers.",
+	  "tags": [
+        "Tools & Utilities",
+		"Monitoring"
+		]
     }
   ]
 }
